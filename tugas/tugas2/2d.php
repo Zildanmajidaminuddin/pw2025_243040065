@@ -14,7 +14,7 @@
     }
 
     .warna {
-        background-color: black;
+        background-color: blue;
         width: 50px;
         height: 50px;
         border: 3px solid black;
