@@ -21,7 +21,7 @@ $result = mysqli_query($conn, "SELECT * FROM mahasiswa");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman Admin</title>
+    <title>Halaman Adminn</title>
 </head>
 <body>
     
